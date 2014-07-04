@@ -1,0 +1,12 @@
+D:\visual studio 2013\Projects\test1\test1\bin\Debug\test1.exe.config
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\Interop.VBIDE.dll
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.vbproj.ResolveComReference.cache
+D:\visual studio 2013\Projects\test1\test1\bin\Debug\test1.exe
+D:\visual studio 2013\Projects\test1\test1\bin\Debug\test1.pdb
+D:\visual studio 2013\Projects\test1\test1\bin\Debug\test1.xml
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.Form1.resources
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.Resources.resources
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.vbproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.exe
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.xml
+D:\visual studio 2013\Projects\test1\test1\obj\Debug\test1.pdb

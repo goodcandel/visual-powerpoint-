@@ -1,0 +1,9 @@
+D:\visual studio 2013\Projects\project1\project1\bin\Debug\project1.exe.config
+D:\visual studio 2013\Projects\project1\project1\bin\Debug\project1.exe
+D:\visual studio 2013\Projects\project1\project1\bin\Debug\project1.pdb
+D:\visual studio 2013\Projects\project1\project1\bin\Debug\project1.xml
+D:\visual studio 2013\Projects\project1\project1\obj\Debug\project1.Resources.resources
+D:\visual studio 2013\Projects\project1\project1\obj\Debug\project1.vbproj.GenerateResource.Cache
+D:\visual studio 2013\Projects\project1\project1\obj\Debug\project1.exe
+D:\visual studio 2013\Projects\project1\project1\obj\Debug\project1.xml
+D:\visual studio 2013\Projects\project1\project1\obj\Debug\project1.pdb
